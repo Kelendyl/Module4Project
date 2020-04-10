@@ -1,27 +1,27 @@
 {
   "strangeThings": [
     {
-      "name":"Uranium Ore",
+      "productName":"Uranium Ore",
       "price":39.95,
       "image":"uranium-ore.jpg"
     },
     {
-      "name": "mushroom farm",
+      "productName": "mushroom farm",
       "price": 22.85 ,
       "image": "mushroomfarm.jpg"
     },
     {
-      "name": "A hand squirrel",
+      "productName": "A hand squirrel",
       "price":6.50  ,
       "image":"hand-squirrel.jpg"
     },
     {
-      "name": "A turkey hat",
+      "productName": "A turkey hat",
       "price": 12.99 ,
       "image": "turkey-hat.jpg"
     },
     {
-      "name": "An inflatable cat horn",
+      "productName": "An inflatable cat horn",
       "price": 6.02 ,
       "image": "inflatable-cat-horn.jpg"
     }
